@@ -59,7 +59,7 @@ Within the team, I started in the electronics department, where I helped establi
 </p>
 
 <p align="left">
-  <a href="https://github.com/Joaomotorsportengineer/Data-Analysis-software">
+  <a href="https://github.com/Joaomotorsportengineer/MicrowaveSensor">  
     <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Joaomotorsportengineer&repo=MicrowaveSensor&theme=default&bg_color=F5F5F5&title_color=000000&hide_border=true&icon_color=000000&show_icons=false">
   </a>
 </p>
